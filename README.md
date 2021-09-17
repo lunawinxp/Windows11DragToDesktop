@@ -8,3 +8,5 @@ It keeps checking the position of your cursor, if your cursor is in the bottom r
 wow! it works! just drag somethin to the corner and WOW! works!
 # How to use
 just run the Windows11DragToDesktop.exe, and boom, done
+# I have an issue!
+![works](https://user-images.githubusercontent.com/72394034/133861550-c6858b3e-bdb5-4721-ada1-1fec5e4314e9.png)
